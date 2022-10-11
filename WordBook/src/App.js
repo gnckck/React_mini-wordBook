@@ -21,7 +21,6 @@ function App() {
       
       <Route path="*" element={<EmptyPage/>} />
       </Routes>
-      {/* footer가 필요하면 Switch 바깥쪽에 */}
       </div>
       </BrowserRouter>
       
